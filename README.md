@@ -27,7 +27,7 @@ The vulnerability model developed in this study (Alduse et al, 2017), is flexibl
 
 Highlights of the model
 Available in open source (Octave) and Matlab platform.
-Based on latest research in wind induced losses - wind, rain and debris; incorporates latest findings from FEMA P58 (Seismic) in building model.
+Based on latest research in wind induced losses (as of 01/2022) - wind, rain and debris; incorporates latest findings from FEMA P58 (Seismic) in building model.
 Captures more than 25 variables of building and environment.
 Easy to edit and explore influence of primary and secondary modifiers/attributes.
 Results validated using published articles and industry data.
