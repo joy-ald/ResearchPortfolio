@@ -15,9 +15,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
     <td width="50%">
       <img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
     </td>
-    <td width="50%">
-       
-      
+    <td width="50%">    
       <h3> Links to Publications </h3> <!-- Add your title here -->
       <ul>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>  </li>
