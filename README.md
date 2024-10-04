@@ -8,6 +8,22 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
 <img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
 
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
+    </td>
+    <td width="50%">
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## Catastrophe modeling
 
