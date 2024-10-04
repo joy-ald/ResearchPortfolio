@@ -5,7 +5,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
 
 
 
-<img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" class="image-container">
+<img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" class="image-container width="300" /">
 
 
 
