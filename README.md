@@ -3,6 +3,7 @@
 My research focuses on uncertainty modeling using ML and simulation models.
 This includes uncertainties in wind engineering, catastrophe modeling and uncertainties in structural models of buildings and bridges.
 
+<img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" > 
 
 
 ## Catastrophe modeling
@@ -35,7 +36,6 @@ Results validated using published articles and industry data.
 <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability </a>
 
 
-
 ### 2. Bridge Fatigue
 In order to estimate wind-induced fatigue damage, most methods use the probability density functions of wind speed and direction. Conventional approaches assume that these functions are error-free and provide a single estimated damage value. However, the estimated damage may contain significant errors because the probability density functions are generally inexact, and the parameters for the functions rely on limited measured data. We propose a Bayesian approach to determine the fatigue damage while considering the uncertainties in the probability model and the parameter. The proposed approach provides a distribution of damage values, which enables more comprehensive analysis of fatigue damage using bounds and exceedance probability. The approach is applied to the estimation of fatigue damage of long-span bridges.
 
@@ -57,4 +57,5 @@ A method is proposed to detect hidden corrosion in metal roofing shingles. The m
 
 Wind turbines as the structures which are designed to harness huge amount of wind energy are subjected to special loads such as high winds and hurricanes because of their heights. Hurricane wind spectrums and amount of energy content is one of the important parameters that make hurricane winds different from regular high winds. In this draft paper, we investigate how different spectrums of hurricane winds influence the wind turbine response, using a simplified wind turbine structure. Two different approaches for hurricane wind spectrums are cited and time 30 series based on each of these approaches are generated. In addition, 30 time series based on regular high wind spectrum are generated and applied on the structure. The results show that, for structure with high amount of natural frequency, the hurricane spectrum with higher energy in high frequencies part has more effect on the structure so it would be more conservative to use these spectrums for design.
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:2osOgNQ5qMEC"> Wind Farm Risk </a>
+<a https://www.mdpi.com/1996-1073/16/3/1207"> Wind Farm Risk 1 </a>
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:2osOgNQ5qMEC"> Wind Farm Risk 2 </a>
