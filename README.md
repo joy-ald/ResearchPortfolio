@@ -3,12 +3,14 @@
 My research focuses on uncertainty modeling using ML and simulation models.
 This includes uncertainties in wind engineering, catastrophe modeling and uncertainties in structural models of buildings and bridges.
 
-![Alt text](https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg)
+
+
+<img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" class="image-container">
 
 
 
 ## Catastrophe modeling
-
+![Alt text](https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg)
 ### 1. Catastrophe Model
 
 A typical cat modelling approach follows four important steps, which are 1. Quantification of hazard, 2. Exposure database, 3. Vulnerability of the portfolio buildings and 4. Financial loss based on repair cost and downtime.
