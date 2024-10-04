@@ -3,15 +3,7 @@
 My research focuses on uncertainty modeling using ML and simulation models.
 This includes uncertainties in wind engineering, catastrophe modeling and uncertainties in structural models of buildings and bridges.
 
-<ul>
-  
-<li> <a href="https://scholar.google.com/citations?user=-Wiy3ksAAAAJ&hl=en&oi=ao
-"> Google Scholar Profile </a>  </li>
 
-  
-<li> <a href="https://orcid.org/0000-0003-0485-2545"> Orcid Profile </a>  </li>
-  
-</ul>
 
 
 <table>
@@ -20,6 +12,16 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
       <img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
     </td>
     <td width="50%">
+       <h3> Profile links </h3> 
+      <ul>
+  
+        <li> <a href="https://scholar.google.com/citations?user=-Wiy3ksAAAAJ&hl=en&oi=ao
+        "> Google Scholar Profile </a>  </li>
+
+  
+        <li> <a href="https://orcid.org/0000-0003-0485-2545"> Orcid Profile </a>  </li>
+  
+      </ul>
       <h3> Links to Publications </h3> <!-- Add your title here -->
       <ul>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>  </li>
