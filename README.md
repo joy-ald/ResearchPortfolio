@@ -5,7 +5,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
 
 
 
-<img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
+
 
 
 <table>
@@ -16,7 +16,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
     <td width="50%">
       <h3> Links to Publications </h3> <!-- Add your title here -->
       <ul>
-        <li>Item 1</li>
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a></li>
         <li>Item 2</li>
         <li>Item 3</li>
         <li>Item 4</li>
