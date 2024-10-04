@@ -14,6 +14,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
       <img src="https://www.site-shot.com/cached_image/DR5egIJBEe-EQQJCrBEAAg" width="800" />
     </td>
     <td width="50%">
+      <h3> Links to Publications </h3> <!-- Add your title here -->
       <ul>
         <li>Item 1</li>
         <li>Item 2</li>
