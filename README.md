@@ -18,8 +18,8 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
     <td width="50%">    
       <h3> Direct Links to Selected Publications </h3> <!-- Add your title here -->
       <ul>
-        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>  </li>
-        <li> <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability </a></li>
+        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling for Residential Buildings </a>  </li>
+        <li> <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability Simulations </a></li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710215000157"> Bayesian Roof Cover modeling </a></li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710217300980"> Statistical Corrosion Detection </a> </li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029615004071"> Bridge Damage Prediction </a> </li>
