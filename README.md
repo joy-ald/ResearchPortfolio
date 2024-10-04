@@ -34,6 +34,39 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
 </table>
 
 
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://via.placeholder.com/150" alt="Image" />
+    </td>
+    <td width="50%">
+      <!-- First List with Heading -->
+      <h3>List Title 1</h3>
+      <ul>
+        <li>Item 1.1</li>
+        <li>Item 1.2</li>
+        <li>Item 1.3</li>
+      </ul>
+
+      <!-- Second List with Heading -->
+      <h3>List Title 2</h3>
+      <ul>
+        <li>Item 2.1</li>
+        <li>Item 2.2</li>
+        <li>Item 2.3</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## Catastrophe modeling
 
 ### 1. Catastrophe Model
