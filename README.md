@@ -26,10 +26,16 @@ Captures more than 25 variables of building and environment.
 Easy to edit and explore influence of primary and secondary modifiers/attributes.
 Results validated using published articles and industry data.
 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:zA6iFVUQeVQC"> Wind Vulnerability </a>
+
 ### Bridge Fatigue
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:d1gkVwhDpl0C"> Bridge Fatigue Uncertainty</a>
 
-
+### Roof cover
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:u-x6o8ySG0sC"> Roof Cover </a>
 ### Corrosion detection
 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:dfsIfKJdRG4C"> Corrosion </a>
 ### Wind farm risk
 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:pyW8ca7W8N0C"> Wind Farm Risk </a>
