@@ -81,4 +81,4 @@ Wind turbines as the structures which are designed to harness huge amount of win
 
 <a href="https://www.mdpi.com/1996-1073/16/3/1207"> Wind Farm Risk 1 </a>
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:2osOgNQ5qMEC"> Wind Farm Risk 2 </a>
+<a href="https://www.researchgate.net/profile/Gholamreza-Amirinia/publication/301891562_Effect_of_different_hurricane_spectrums_on_wind_turbine_loads_and_responses/links/5a04fc19aca2726b4c73ad70/Effect-of-different-hurricane-spectrums-on-wind-turbine-loads-and-responses.pdf"> Wind Farm Risk 2 </a>
