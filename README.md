@@ -13,7 +13,18 @@ Vulnerability module provides probabilistic loss ratios for the building using t
 
 Loss module converts the loss ratios and incorporates policy specification for different properties to determine actual dollar loss.
 
+##### Hurricane Wind Vulnerability
 
+This research focuses on modeling dollar losses in residential and commercial buildings using a simulation based approach.
+
+The vulnerability model developed in this study (Alduse et al, 2017), is flexible and addresses multiple building archetypes. For example, residential, retail, schools, warehouses, offices and hospitals can be easily modeled to obtain losses at different wind speeds, debris conditions and rainfall intensities. Furthermore, damage function suite can be developed (by running parallel simulations on cluster) for a variety of insured properties.
+
+Highlights of the model
+Available in open source (Octave) and Matlab platform.
+Based on latest research in wind induced losses - wind, rain and debris; incorporates latest findings from FEMA P58 (Seismic) in building model.
+Captures more than 25 variables of building and environment.
+Easy to edit and explore influence of primary and secondary modifiers/attributes.
+Results validated using published articles and industry data.
 
 ### Bridge Fatigue
 
