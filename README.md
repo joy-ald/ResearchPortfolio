@@ -3,7 +3,11 @@
 My research focuses on uncertainty modeling using ML and simulation models.
 This includes uncertainties in wind engineering, catastrophe modeling and uncertainties in structural models of buildings and bridges.
 
-
+<h3> Profile links </h3> 
+      <ul>  
+        <li> <a href="https://scholar.google.com/citations?user=-Wiy3ksAAAAJ&hl=en&oi=ao"> Google Scholar Profile </a>  </li>  
+        <li> <a href="https://orcid.org/0000-0003-0485-2545"> Orcid Profile </a>  </li>
+      </ul>
 
 
 <table>
@@ -20,8 +24,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
         <li> <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability </a></li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710215000157"> Roof Cover </a></li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710217300980"> Corrosion Detection </a> </li>
-        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029615004071"> Bridge Fatigue Uncertainty </a> 
-        </li>
+        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029615004071"> Bridge Fatigue Uncertainty </a> </li>
       </ul>
     </td>
   </tr>
