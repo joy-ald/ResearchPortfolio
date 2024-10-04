@@ -18,11 +18,11 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
       <ul>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>  </li>
         <li> <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability </a></li>
-        <li> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:u-x6o8ySG0sC"> Roof Cover 
+        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710215000157"> Roof Cover 
              </a>
         </li>
-        <li> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:dfsIfKJdRG4C"> Corrosion Detection </a> </li>
-        <li> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:d1gkVwhDpl0C"> Bridge Fatigue Uncertainty </a> 
+        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710217300980"> Corrosion Detection </a> </li>
+        <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029615004071"> Bridge Fatigue Uncertainty </a> 
         </li>
       </ul>
     </td>
