@@ -33,7 +33,9 @@ Easy to edit and explore influence of primary and secondary modifiers/attributes
 Results validated using published articles and industry data.
 
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:zA6iFVUQeVQC"> Wind Vulnerability </a>
+ <p> &nbsp; </p>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>
+
 ### 2. Bridge Fatigue
 In order to estimate wind-induced fatigue damage, most methods use the probability density functions of wind speed and direction. Conventional approaches assume that these functions are error-free and provide a single estimated damage value. However, the estimated damage may contain significant errors because the probability density functions are generally inexact, and the parameters for the functions rely on limited measured data. We propose a Bayesian approach to determine the fatigue damage while considering the uncertainties in the probability model and the parameter. The proposed approach provides a distribution of damage values, which enables more comprehensive analysis of fatigue damage using bounds and exceedance probability. The approach is applied to the estimation of fatigue damage of long-span bridges.
 
