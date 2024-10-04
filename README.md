@@ -28,7 +28,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
   </tr>
 </table>
 
-## Catastrophe modeling
+
 
 ### 1. Catastrophe Model
 
