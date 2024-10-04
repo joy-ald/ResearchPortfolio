@@ -3,6 +3,8 @@
 My research focuses on uncertainty modeling using ML and simulation models.
 This includes uncertainties in wind engineering, catastrophe modeling and uncertainties in structural models of buildings and bridges.
 
+
+
 ## Catastrophe modeling
 
 ### 1. Catastrophe Model
