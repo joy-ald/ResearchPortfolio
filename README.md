@@ -33,7 +33,7 @@ Easy to edit and explore influence of primary and secondary modifiers/attributes
 Results validated using published articles and industry data.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029616317540"> Bayesian Modeling </a>
- <p> &nbsp; </p>
+
 <a href="https://www.mdpi.com/2674-032X/2/1/6"> Wind Vulnerability </a>
 
 
