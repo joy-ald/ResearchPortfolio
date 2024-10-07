@@ -23,6 +23,8 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710215000157"> Bayesian Roof Cover modeling </a></li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710217300980"> Statistical Corrosion Detection </a> </li>
         <li> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0141029615004071"> Bridge Damage Prediction </a> </li>
+        <li> <a href="https://www.mdpi.com/1996-1073/16/3/1207"> Wind Farm Risk </a> </li>
+        <li> <a href="https://www.researchgate.net/profile/Gholamreza-Amirinia/publication/301891562_Effect_of_different_hurricane_spectrums_on_wind_turbine_loads_and_responses/links/5a04fc19aca2726b4c73ad70/Effect-of-different-hurricane-spectrums-on-wind-turbine-loads-and-responses.pdf"> Wind Turbine Tower </a> </li>
       </ul>
     </td>
   </tr>
@@ -67,13 +69,13 @@ In order to estimate wind-induced fatigue damage, most methods use the probabili
 
 Fragility modeling is a commonly used approach to quantify the risk of a structure subjected to high winds. In order to overcome a limitation of conventional fragility models where the performance of the roof cover is assumed to be fixed, we propose a new framework for obtaining the fragility of roof covers under high winds. The approach models the capacity related terms as functions rather than fixed values. Therefore, it can describe gradual increase of failure probability as the roof cover degrades over time. The parameters for the capacity functions are obtained from sensor measurements. In order to overcome the uncertainties associated with the limited measurements, a Bayesian approach is employed. 
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:u-x6o8ySG0sC"> Roof Cover </a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710215000157"> Roof Cover </a>
 
 ### 4. Corrosion detection
 
 A method is proposed to detect hidden corrosion in metal roofing shingles. The method involves three components: 1) application of a simple heating source that can cause a temperature discrepancy between uncorroded shingle and corroded shingle, 2) acquisition of temperate data using a digital infrared camera, and 3) data analysis that can help us locate hidden corrosion. Experiments were conducted to test the effectiveness of the proposed method. Samples with different material, thickness, and surface coating were subjected to accelerated corrosion on one half of the interior surface. The other half of the interior surface was left uncorroded as a baseline. Using a digital infrared camera, thermal images were collected and analyzed. Two different data analysis methods were proposed to detect the corrosion.
 
-<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Wiy3ksAAAAJ&citation_for_view=-Wiy3ksAAAAJ:dfsIfKJdRG4C"> Corrosion Detection </a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352710217300980"> Corrosion Detection </a>
 
 ### 5. Wind farm risk
 
