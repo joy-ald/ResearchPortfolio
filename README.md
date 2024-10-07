@@ -13,7 +13,7 @@ This includes uncertainties in wind engineering, catastrophe modeling and uncert
 <table>
   <tr>
     <td width="50%">
-      <img src="https://testlocal.ly/tests/67043384fa88d7573907d468" width="800" />
+      <img src="https://www.site-shot.com/cached_image/0wgcIITgEe-pggJCrBEAAg" width="800" />
     </td>
     <td width="50%">    
       <h3> Direct Links to Selected Publications </h3> <!-- Add your title here -->
